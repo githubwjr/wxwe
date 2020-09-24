@@ -1,0 +1,3556 @@
+2020-06-12 08:42:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1fwkAxX0W6TonX78mism3fg]]></FromUserName>
+<CreateTime>1591922526</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 08:45:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922719</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 08:45:20 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922719',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922719',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 08:45:20 response :
+------------
+
+2020-06-12 08:45:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922724</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[
+   啤酒专用原料大全（适合精酿啤酒、自酿啤酒、家酿啤酒）
+1、原浆啤酒保鲜剂（可代替巴氏杀菌）
+2、生啤酒保鲜剂（可代替巴氏杀菌）
+3、啤酒麦香风味剂
+4、白啤酒增香剂（糊香兼咖啡香）
+5、既发型啤酒干酵母（通用型和增香型）
+6、自酿啤酒粉（不需要糖化）
+7、颗粒啤酒花（苦型和香型）
+8、无醇啤酒粉(可生产无醇啤酒和低醇啤酒)
+9、无醇啤酒酵母(不产酒精酵母)
+10、啤酒泡沫稳定剂
+11、啤酒增稠剂
+12、啤酒色素（用于啤酒调色）
+13、黑啤酒浓缩液
+14、红啤酒浓缩液
+15、白啤酒助剂（白啤酒生产用）
+16、啤酒专用大豆肽（保健啤酒用）
+17、多彩扎啤浓缩液（用普通扎啤可加工成白啤酒、黑啤酒、红啤酒）
+18、果啤专用浓缩汁(菠萝，橙子，柠檬，葡萄，草莓，苹果，荔枝，杨梅，百香果等）
+     如了解祥情请加本公司微信号或QQ好友。
+       北京凯帝啤酒有限公司
+     联系方式：
+地址：北京大兴区前营工业园
+电话:17710183126（微信同号）
+QQ:416172251（看其它产品可点下面网店链接）       微店: http://weidian.com/s/965467181?wfr=c
+     
+
+
+      ]]></Content>
+<MsgId>22790853235497614</MsgId>
+</xml>
+
+2020-06-12 08:45:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922724',
+    'msgtype' => 'text',
+    'content' => '
+   啤酒专用原料大全（适合精酿啤酒、自酿啤酒、家酿啤酒）
+1、原浆啤酒保鲜剂（可代替巴氏杀菌）
+2、生啤酒保鲜剂（可代替巴氏杀菌）
+3、啤酒麦香风味剂
+4、白啤酒增香剂（糊香兼咖啡香）
+5、既发型啤酒干酵母（通用型和增香型）
+6、自酿啤酒粉（不需要糖化）
+7、颗粒啤酒花（苦型和香型）
+8、无醇啤酒粉(可生产无醇啤酒和低醇啤酒)
+9、无醇啤酒酵母(不产酒精酵母)
+10、啤酒泡沫稳定剂
+11、啤酒增稠剂
+12、啤酒色素（用于啤酒调色）
+13、黑啤酒浓缩液
+14、红啤酒浓缩液
+15、白啤酒助剂（白啤酒生产用）
+16、啤酒专用大豆肽（保健啤酒用）
+17、多彩扎啤浓缩液（用普通扎啤可加工成白啤酒、黑啤酒、红啤酒）
+18、果啤专用浓缩汁(菠萝，橙子，柠檬，葡萄，草莓，苹果，荔枝，杨梅，百香果等）
+     如了解祥情请加本公司微信号或QQ好友。
+       北京凯帝啤酒有限公司
+     联系方式：
+地址：北京大兴区前营工业园
+电话:17710183126（微信同号）
+QQ:416172251（看其它产品可点下面网店链接）       微店: http://weidian.com/s/965467181?wfr=c
+     
+
+
+      ',
+    'msgid' => '22790853235497614',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922724',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2020-06-12 08:45:25 response :
+------------
+
+2020-06-12 08:45:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922735</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0bS1tu0fyLCahoxcBA7hoUq8MUPcTssDqj4kYpI4FfPRyMiajUky1IA/0]]></PicUrl>
+<MsgId>22790857002537616</MsgId>
+<MediaId><![CDATA[kWgjmejn6FC9h8yZE3hlOSR3tV5VguYukHANamfda3_D3U5An6Ai-TbEb7HfUtr9]]></MediaId>
+</xml>
+
+2020-06-12 08:45:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922735',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0bS1tu0fyLCahoxcBA7hoUq8MUPcTssDqj4kYpI4FfPRyMiajUky1IA/0',
+    'msgid' => '22790857002537616',
+    'mediaid' => 'kWgjmejn6FC9h8yZE3hlOSR3tV5VguYukHANamfda3_D3U5An6Ai-TbEb7HfUtr9',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922735',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0bS1tu0fyLCahoxcBA7hoUq8MUPcTssDqj4kYpI4FfPRyMiajUky1IA/0',
+  ),
+)
+
+2020-06-12 08:45:35 response :
+------------
+
+2020-06-12 08:45:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922735</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwyicXR4ZFxaBic6vrTr3YFdbSjsS7ibbfJh9BQ80jIGDwpCEykMjdCMOEg/0]]></PicUrl>
+<MsgId>22790854151327295</MsgId>
+<MediaId><![CDATA[QynAXLYN4LcyZflKEwbg4_UaFtYL0LXxi5jKcX_7Tf6ZyAGXUNWY9AVTa0S2U5pi]]></MediaId>
+</xml>
+
+2020-06-12 08:45:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922735',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwyicXR4ZFxaBic6vrTr3YFdbSjsS7ibbfJh9BQ80jIGDwpCEykMjdCMOEg/0',
+    'msgid' => '22790854151327295',
+    'mediaid' => 'QynAXLYN4LcyZflKEwbg4_UaFtYL0LXxi5jKcX_7Tf6ZyAGXUNWY9AVTa0S2U5pi',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922735',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwyicXR4ZFxaBic6vrTr3YFdbSjsS7ibbfJh9BQ80jIGDwpCEykMjdCMOEg/0',
+  ),
+)
+
+2020-06-12 08:45:36 response :
+------------
+
+2020-06-12 08:45:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922735</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwhCZDn44rGiabLg0XW4xzwB7qD3gPRk8TTyhNIZcGVxckN62ibdZDejfA/0]]></PicUrl>
+<MsgId>22790857400658216</MsgId>
+<MediaId><![CDATA[Us13UJ41XTpbo2SI3PIIuOg7-50Kjl7ejWfSUyrHayzWVy1Z3sqHP3TrThgUbMZi]]></MediaId>
+</xml>
+
+2020-06-12 08:45:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922735',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwhCZDn44rGiabLg0XW4xzwB7qD3gPRk8TTyhNIZcGVxckN62ibdZDejfA/0',
+    'msgid' => '22790857400658216',
+    'mediaid' => 'Us13UJ41XTpbo2SI3PIIuOg7-50Kjl7ejWfSUyrHayzWVy1Z3sqHP3TrThgUbMZi',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922735',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwhCZDn44rGiabLg0XW4xzwB7qD3gPRk8TTyhNIZcGVxckN62ibdZDejfA/0',
+  ),
+)
+
+2020-06-12 08:45:36 response :
+------------
+
+2020-06-12 08:45:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922736</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwmFpqaANZEAaqicSibPkdJp9YzkkYrFrZBm3nobiakuUwNtLRCcsBACibow/0]]></PicUrl>
+<MsgId>22790853958926491</MsgId>
+<MediaId><![CDATA[iMb17RS5tOTDizZEDE2J76sYt7YB2kKIo5PXWMbMuFuKhDy2ruQrWh7L3DAT-Mmm]]></MediaId>
+</xml>
+
+2020-06-12 08:45:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922736</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwesSYL9VM7q9Gy0nGVnOHXN1aicnR9330LaCf3kkiarDVIO7ZLIORR5PA/0]]></PicUrl>
+<MsgId>22790856183228429</MsgId>
+<MediaId><![CDATA[Oiw2_nbecN6Cd9Wn-D3fHeRL8s6fsVPFe6KKvdCO4Ohceq5rzgskRhKc6b5e5cd-]]></MediaId>
+</xml>
+
+2020-06-12 08:45:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922736',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwmFpqaANZEAaqicSibPkdJp9YzkkYrFrZBm3nobiakuUwNtLRCcsBACibow/0',
+    'msgid' => '22790853958926491',
+    'mediaid' => 'iMb17RS5tOTDizZEDE2J76sYt7YB2kKIo5PXWMbMuFuKhDy2ruQrWh7L3DAT-Mmm',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922736',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwmFpqaANZEAaqicSibPkdJp9YzkkYrFrZBm3nobiakuUwNtLRCcsBACibow/0',
+  ),
+)
+
+2020-06-12 08:45:36 response :
+------------
+
+2020-06-12 08:45:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922736',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwesSYL9VM7q9Gy0nGVnOHXN1aicnR9330LaCf3kkiarDVIO7ZLIORR5PA/0',
+    'msgid' => '22790856183228429',
+    'mediaid' => 'Oiw2_nbecN6Cd9Wn-D3fHeRL8s6fsVPFe6KKvdCO4Ohceq5rzgskRhKc6b5e5cd-',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922736',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwesSYL9VM7q9Gy0nGVnOHXN1aicnR9330LaCf3kkiarDVIO7ZLIORR5PA/0',
+  ),
+)
+
+2020-06-12 08:45:36 response :
+------------
+
+2020-06-12 08:45:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922736</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0YzaicaOLeqz5AEjRdKrPL19MKia8ZCib0g89bOHX7P98e1Yb9enchOuQ/0]]></PicUrl>
+<MsgId>22790857399662287</MsgId>
+<MediaId><![CDATA[xSnCH9VzTGqYJbmYggWWdso62E4QEgX30jFDfApZ3J6PWPP1ISza_bkIzCZvOuxs]]></MediaId>
+</xml>
+
+2020-06-12 08:45:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922736',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0YzaicaOLeqz5AEjRdKrPL19MKia8ZCib0g89bOHX7P98e1Yb9enchOuQ/0',
+    'msgid' => '22790857399662287',
+    'mediaid' => 'xSnCH9VzTGqYJbmYggWWdso62E4QEgX30jFDfApZ3J6PWPP1ISza_bkIzCZvOuxs',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922736',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNw0YzaicaOLeqz5AEjRdKrPL19MKia8ZCib0g89bOHX7P98e1Yb9enchOuQ/0',
+  ),
+)
+
+2020-06-12 08:45:37 response :
+------------
+
+2020-06-12 08:45:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922736</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwIPj9to9ib8xae3AdZU4xGrcyeGvvzJ6T86aWYBr8BRYROiccbqibkooJQ/0]]></PicUrl>
+<MsgId>22790856571960018</MsgId>
+<MediaId><![CDATA[gDDz1JDjNd2alvr16IvESLcwpTeg6GmFdQJoyeu5CIhgTIqGazCb-badyB0lm_n-]]></MediaId>
+</xml>
+
+2020-06-12 08:45:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922736',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwIPj9to9ib8xae3AdZU4xGrcyeGvvzJ6T86aWYBr8BRYROiccbqibkooJQ/0',
+    'msgid' => '22790856571960018',
+    'mediaid' => 'gDDz1JDjNd2alvr16IvESLcwpTeg6GmFdQJoyeu5CIhgTIqGazCb-badyB0lm_n-',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922736',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwIPj9to9ib8xae3AdZU4xGrcyeGvvzJ6T86aWYBr8BRYROiccbqibkooJQ/0',
+  ),
+)
+
+2020-06-12 08:45:37 response :
+------------
+
+2020-06-12 08:45:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922737</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwuOZc5sTkXfYtILFIc2icqBge668L7rhyvicOBmwDIibkKtf7Fn3k7NTkA/0]]></PicUrl>
+<MsgId>22790857114274804</MsgId>
+<MediaId><![CDATA[b8uu1TULqsbL0SbosTAPDNFdRFF6OgJo001ke77Tfjghv7U7tMwVvEOeql-lRTUE]]></MediaId>
+</xml>
+
+2020-06-12 08:45:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922737',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwuOZc5sTkXfYtILFIc2icqBge668L7rhyvicOBmwDIibkKtf7Fn3k7NTkA/0',
+    'msgid' => '22790857114274804',
+    'mediaid' => 'b8uu1TULqsbL0SbosTAPDNFdRFF6OgJo001ke77Tfjghv7U7tMwVvEOeql-lRTUE',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922737',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwuOZc5sTkXfYtILFIc2icqBge668L7rhyvicOBmwDIibkKtf7Fn3k7NTkA/0',
+  ),
+)
+
+2020-06-12 08:45:37 response :
+------------
+
+2020-06-12 08:45:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591922737</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwvep5GJ9lTrxn8e6WGoTDgj9tTtCSM5FEdp0kr0JqicN1uBjqXMEvicGw/0]]></PicUrl>
+<MsgId>22790853845089285</MsgId>
+<MediaId><![CDATA[8U-P3z95uB_XrE3-EYbXLgySXsYV8YRb556IOfioTCyRJ1L4op0uTWRsXjHlCGMj]]></MediaId>
+</xml>
+
+2020-06-12 08:45:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_ad9809bc437f',
+    'fromusername' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'createtime' => '1591922737',
+    'msgtype' => 'image',
+    'picurl' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwvep5GJ9lTrxn8e6WGoTDgj9tTtCSM5FEdp0kr0JqicN1uBjqXMEvicGw/0',
+    'msgid' => '22790853845089285',
+    'mediaid' => '8U-P3z95uB_XrE3-EYbXLgySXsYV8YRb556IOfioTCyRJ1L4op0uTWRsXjHlCGMj',
+    'from' => 'or3iRt-aIrYUXKR7PDsYBk3n2PCI',
+    'to' => 'gh_ad9809bc437f',
+    'time' => '1591922737',
+    'type' => 'image',
+    'event' => NULL,
+    'url' => 'http://mmbiz.qpic.cn/mmbiz_jpg/I4AiaE47kDyr6JL1eYA19jZd0hHqs6dNwvep5GJ9lTrxn8e6WGoTDgj9tTtCSM5FEdp0kr0JqicN1uBjqXMEvicGw/0',
+  ),
+)
+
+2020-06-12 08:45:37 response :
+------------
+
+2020-06-12 09:06:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_62bcc2f9639d]]></ToUserName>
+<FromUserName><![CDATA[opjhUwLh8PuvM3a4vM1piKNSHatc]]></FromUserName>
+<CreateTime>1591923974</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>432207807</MenuId>
+</xml>
+
+2020-06-12 09:06:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_62bcc2f9639d',
+    'fromusername' => 'opjhUwLh8PuvM3a4vM1piKNSHatc',
+    'createtime' => '1591923974',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '432207807',
+    'from' => 'opjhUwLh8PuvM3a4vM1piKNSHatc',
+    'to' => 'gh_62bcc2f9639d',
+    'time' => '1591923974',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:06:15 response :
+------------
+
+2020-06-12 09:09:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924158</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:09:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924158',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924158',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:09:18 response :
+------------
+
+2020-06-12 09:09:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924188</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:09:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924188',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924188',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:09:48 response :
+------------
+
+2020-06-12 09:09:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924197</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:09:57 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924197',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924197',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:09:57 response :
+------------
+
+2020-06-12 09:10:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924210</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:10:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924210',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924210',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:10:10 response :
+------------
+
+2020-06-12 09:11:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924289</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:11:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924289',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924289',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:11:29 response :
+------------
+
+2020-06-12 09:11:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924293</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:11:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924293',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924293',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:11:33 response :
+------------
+
+2020-06-12 09:14:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924475</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:14:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924475',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924475',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:14:35 response :
+------------
+
+2020-06-12 09:14:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924487</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:14:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924487',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924487',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:14:47 response :
+------------
+
+2020-06-12 09:16:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924603</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:16:43 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924603',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924603',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=136',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:16:43 response :
+------------
+
+2020-06-12 09:18:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924726</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=139]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:18:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924726',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=139',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924726',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=139',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:18:46 response :
+------------
+
+2020-06-12 09:21:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591924889</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=138]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:21:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591924889',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=138',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591924889',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=138',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:21:29 response :
+------------
+
+2020-06-12 09:24:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591925066</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:24:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591925066',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591925066',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=135',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:24:26 response :
+------------
+
+2020-06-12 09:24:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70FtxgUSfldCL2PH5Rta5WEWhk]]></FromUserName>
+<CreateTime>1591925070</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 09:24:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'createtime' => '1591925070',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'menuid' => '426666445',
+    'from' => 'oR70FtxgUSfldCL2PH5Rta5WEWhk',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591925070',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=137',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 09:24:30 response :
+------------
+
+2020-06-12 10:21:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_48cc1f7b50f4]]></ToUserName>
+<FromUserName><![CDATA[olz_3vi7tJrLwrFO4m9weoCSAFOU]]></FromUserName>
+<CreateTime>1591928478</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000003</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>14</TotalCount>
+<FilterCount>14</FilterCount>
+<SentCount>14</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+<ArticleUrlResult><Count>1</Count>
+<ResultList><item><ArticleIdx>1</ArticleIdx>
+<ArticleUrl><![CDATA[http://mp.weixin.qq.com/s/dmFdYlHtLMHzKkB42m_Byw]]></ArticleUrl>
+</item>
+</ResultList>
+</ArticleUrlResult>
+</xml>
+
+2020-06-12 10:21:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_48cc1f7b50f4',
+    'fromusername' => 'olz_3vi7tJrLwrFO4m9weoCSAFOU',
+    'createtime' => '1591928478',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000003',
+    'status' => 'send success',
+    'totalcount' => '14',
+    'filtercount' => '14',
+    'sentcount' => '14',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'articleurlresult' => 
+    array (
+      'count' => '1',
+      'resultlist' => 
+      array (
+        'item' => 
+        array (
+          'articleidx' => '1',
+          'articleurl' => 'http://mp.weixin.qq.com/s/dmFdYlHtLMHzKkB42m_Byw',
+        ),
+      ),
+    ),
+    'from' => 'olz_3vi7tJrLwrFO4m9weoCSAFOU',
+    'to' => 'gh_48cc1f7b50f4',
+    'time' => '1591928478',
+    'type' => 'event',
+  ),
+)
+
+2020-06-12 10:21:18 response :
+------------
+
+2020-06-12 10:26:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_48cc1f7b50f4]]></ToUserName>
+<FromUserName><![CDATA[olz_3vusQD_ARAyB74KvTEIcNCWg]]></FromUserName>
+<CreateTime>1591928772</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/:rose/:rose/:rose]]></Content>
+<MsgId>22790941407581513</MsgId>
+</xml>
+
+2020-06-12 10:26:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_48cc1f7b50f4',
+    'fromusername' => 'olz_3vusQD_ARAyB74KvTEIcNCWg',
+    'createtime' => '1591928772',
+    'msgtype' => 'text',
+    'content' => '/:rose/:rose/:rose',
+    'msgid' => '22790941407581513',
+    'from' => 'olz_3vusQD_ARAyB74KvTEIcNCWg',
+    'to' => 'gh_48cc1f7b50f4',
+    'time' => '1591928772',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2020-06-12 10:26:12 response :
+------------
+
+2020-06-12 10:26:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_48cc1f7b50f4]]></ToUserName>
+<FromUserName><![CDATA[olz_3vrpo0iIAdr_s9VnMURHFd_Y]]></FromUserName>
+<CreateTime>1591928800</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 11:22:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB59v291sdh21_fNY9nh9VF1U]]></FromUserName>
+<CreateTime>1591932138</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>444488974</MenuId>
+</xml>
+
+2020-06-12 11:22:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB59v291sdh21_fNY9nh9VF1U',
+    'createtime' => '1591932138',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '444488974',
+    'from' => 'o3lrB59v291sdh21_fNY9nh9VF1U',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1591932138',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 11:22:18 response :
+------------
+
+2020-06-12 11:22:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_798963d6b623]]></ToUserName>
+<FromUserName><![CDATA[oa1g_1BJILlPcwG21gkjgk2p4_co]]></FromUserName>
+<CreateTime>1591932167</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>438278889</MenuId>
+</xml>
+
+2020-06-12 11:22:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_798963d6b623',
+    'fromusername' => 'oa1g_1BJILlPcwG21gkjgk2p4_co',
+    'createtime' => '1591932167',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '438278889',
+    'from' => 'oa1g_1BJILlPcwG21gkjgk2p4_co',
+    'to' => 'gh_798963d6b623',
+    'time' => '1591932167',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 11:22:47 response :
+------------
+
+2020-06-12 11:22:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_798963d6b623]]></ToUserName>
+<FromUserName><![CDATA[oa1g_1BJILlPcwG21gkjgk2p4_co]]></FromUserName>
+<CreateTime>1591932170</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>438278889</MenuId>
+</xml>
+
+2020-06-12 11:22:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_798963d6b623',
+    'fromusername' => 'oa1g_1BJILlPcwG21gkjgk2p4_co',
+    'createtime' => '1591932170',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '438278889',
+    'from' => 'oa1g_1BJILlPcwG21gkjgk2p4_co',
+    'to' => 'gh_798963d6b623',
+    'time' => '1591932170',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=9&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 11:22:50 response :
+------------
+
+2020-06-12 11:32:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_48cc1f7b50f4]]></ToUserName>
+<FromUserName><![CDATA[olz_3vrPfBA8aZct97vjXAVm2UEg]]></FromUserName>
+<CreateTime>1591932730</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=14&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429196825</MenuId>
+</xml>
+
+2020-06-12 11:32:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_48cc1f7b50f4',
+    'fromusername' => 'olz_3vrPfBA8aZct97vjXAVm2UEg',
+    'createtime' => '1591932730',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=14&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429196825',
+    'from' => 'olz_3vrPfBA8aZct97vjXAVm2UEg',
+    'to' => 'gh_48cc1f7b50f4',
+    'time' => '1591932730',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=14&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 11:32:10 response :
+------------
+
+2020-06-12 12:31:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bl2jESIlQt0kzRufXm1pFk]]></FromUserName>
+<CreateTime>1591936318</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 12:31:58 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bl2jESIlQt0kzRufXm1pFk',
+    'createtime' => '1591936318',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1bl2jESIlQt0kzRufXm1pFk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591936318',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 12:31:58 response :
+------------
+
+2020-06-12 12:32:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bl2jESIlQt0kzRufXm1pFk]]></FromUserName>
+<CreateTime>1591936329</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 12:32:09 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bl2jESIlQt0kzRufXm1pFk',
+    'createtime' => '1591936329',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1bl2jESIlQt0kzRufXm1pFk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591936329',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 12:32:09 response :
+------------
+
+2020-06-12 12:49:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1StG7-DpHZuGsMthVZIgSUw]]></FromUserName>
+<CreateTime>1591937358</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 12:49:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1StG7-DpHZuGsMthVZIgSUw',
+    'createtime' => '1591937358',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1StG7-DpHZuGsMthVZIgSUw',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591937358',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 12:49:18 response :
+------------
+
+2020-06-12 14:40:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Q5jIw7zNKH6zn-Afa_fYrw]]></FromUserName>
+<CreateTime>1591944032</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 14:40:32 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Q5jIw7zNKH6zn-Afa_fYrw',
+    'createtime' => '1591944032',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1Q5jIw7zNKH6zn-Afa_fYrw',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591944032',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 14:40:32 response :
+------------
+
+2020-06-12 14:40:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Q5jIw7zNKH6zn-Afa_fYrw]]></FromUserName>
+<CreateTime>1591944038</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 14:40:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Q5jIw7zNKH6zn-Afa_fYrw',
+    'createtime' => '1591944038',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1Q5jIw7zNKH6zn-Afa_fYrw',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591944038',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 14:40:38 response :
+------------
+
+2020-06-12 14:48:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_48cc1f7b50f4]]></ToUserName>
+<FromUserName><![CDATA[olz_3vi7tJrLwrFO4m9weoCSAFOU]]></FromUserName>
+<CreateTime>1591944524</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000004</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>13</TotalCount>
+<FilterCount>13</FilterCount>
+<SentCount>13</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+<ArticleUrlResult><Count>1</Count>
+<ResultList><item><ArticleIdx>1</ArticleIdx>
+<ArticleUrl><![CDATA[http://mp.weixin.qq.com/s/Sm-XFj2AbHnP6xCn756gKQ]]></ArticleUrl>
+</item>
+</ResultList>
+</ArticleUrlResult>
+</xml>
+
+2020-06-12 14:48:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_48cc1f7b50f4',
+    'fromusername' => 'olz_3vi7tJrLwrFO4m9weoCSAFOU',
+    'createtime' => '1591944524',
+    'msgtype' => 'event',
+    'event' => 'MASSSENDJOBFINISH',
+    'msgid' => '1000000004',
+    'status' => 'send success',
+    'totalcount' => '13',
+    'filtercount' => '13',
+    'sentcount' => '13',
+    'errorcount' => '0',
+    'copyrightcheckresult' => 
+    array (
+      'count' => '0',
+      'resultlist' => '',
+      'checkstate' => '0',
+    ),
+    'articleurlresult' => 
+    array (
+      'count' => '1',
+      'resultlist' => 
+      array (
+        'item' => 
+        array (
+          'articleidx' => '1',
+          'articleurl' => 'http://mp.weixin.qq.com/s/Sm-XFj2AbHnP6xCn756gKQ',
+        ),
+      ),
+    ),
+    'from' => 'olz_3vi7tJrLwrFO4m9weoCSAFOU',
+    'to' => 'gh_48cc1f7b50f4',
+    'time' => '1591944524',
+    'type' => 'event',
+  ),
+)
+
+2020-06-12 14:48:44 response :
+------------
+
+2020-06-12 15:34:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1R1tzmb-kZincoPKB9XroVU]]></FromUserName>
+<CreateTime>1591947261</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 15:34:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1R1tzmb-kZincoPKB9XroVU',
+    'createtime' => '1591947261',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1R1tzmb-kZincoPKB9XroVU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591947261',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 15:34:21 response :
+------------
+
+2020-06-12 15:34:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1R1tzmb-kZincoPKB9XroVU]]></FromUserName>
+<CreateTime>1591947264</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 15:34:24 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1R1tzmb-kZincoPKB9XroVU',
+    'createtime' => '1591947264',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1R1tzmb-kZincoPKB9XroVU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591947264',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 15:34:24 response :
+------------
+
+2020-06-12 15:52:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1atiBbITf_V7LCU-My7boEI]]></FromUserName>
+<CreateTime>1591948325</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 15:52:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1atiBbITf_V7LCU-My7boEI',
+    'createtime' => '1591948325',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1atiBbITf_V7LCU-My7boEI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591948325',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 15:52:05 response :
+------------
+
+2020-06-12 17:09:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1SG-NhDNAhGjX79mb2B14Tg]]></FromUserName>
+<CreateTime>1591952964</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 17:09:25 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1SG-NhDNAhGjX79mb2B14Tg',
+    'createtime' => '1591952964',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1SG-NhDNAhGjX79mb2B14Tg',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591952964',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 17:09:25 response :
+------------
+
+2020-06-12 17:21:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cx3MkeS4NYSbRRHBHBva1E]]></FromUserName>
+<CreateTime>1591953675</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 17:21:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cx3MkeS4NYSbRRHBHBva1E',
+    'createtime' => '1591953675',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1cx3MkeS4NYSbRRHBHBva1E',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591953675',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 17:21:15 response :
+------------
+
+2020-06-12 17:37:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7b3d37846b75]]></ToUserName>
+<FromUserName><![CDATA[oZ5PY1E2rbpBXuNh7santBG7SkAA]]></FromUserName>
+<CreateTime>1591954637</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30]]></EventKey>
+<MenuId>516391862</MenuId>
+</xml>
+
+2020-06-12 17:37:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7b3d37846b75',
+    'fromusername' => 'oZ5PY1E2rbpBXuNh7santBG7SkAA',
+    'createtime' => '1591954637',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30',
+    'menuid' => '516391862',
+    'from' => 'oZ5PY1E2rbpBXuNh7santBG7SkAA',
+    'to' => 'gh_7b3d37846b75',
+    'time' => '1591954637',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 17:37:17 response :
+------------
+
+2020-06-12 18:29:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7b3d37846b75]]></ToUserName>
+<FromUserName><![CDATA[oZ5PY1OFlcP6_smKhHHi5VmVeY10]]></FromUserName>
+<CreateTime>1591957739</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30]]></EventKey>
+<MenuId>516391862</MenuId>
+</xml>
+
+2020-06-12 18:29:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7b3d37846b75',
+    'fromusername' => 'oZ5PY1OFlcP6_smKhHHi5VmVeY10',
+    'createtime' => '1591957739',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30',
+    'menuid' => '516391862',
+    'from' => 'oZ5PY1OFlcP6_smKhHHi5VmVeY10',
+    'to' => 'gh_7b3d37846b75',
+    'time' => '1591957739',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=7&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=30',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 18:29:00 response :
+------------
+
+2020-06-12 18:29:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB56YgfPLcP6rEn7mp3EbK7aM]]></FromUserName>
+<CreateTime>1591957742</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 18:29:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'createtime' => '1591957742',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1591957742',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 18:29:02 response :
+------------
+
+2020-06-12 18:29:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB56aLvrRpFrI6pHvL2jJCqGM]]></FromUserName>
+<CreateTime>1591957771</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 18:29:32 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB56aLvrRpFrI6pHvL2jJCqGM',
+    'createtime' => '1591957771',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o3lrB56aLvrRpFrI6pHvL2jJCqGM',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1591957771',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 18:29:32 response :
+------------
+
+2020-06-12 18:32:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Y_FV5xaFfNB9jrtlDtQnt8]]></FromUserName>
+<CreateTime>1591957934</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 18:32:15 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Y_FV5xaFfNB9jrtlDtQnt8',
+    'createtime' => '1591957934',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1Y_FV5xaFfNB9jrtlDtQnt8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591957934',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 18:32:15 response :
+------------
+
+2020-06-12 18:35:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_62bcc2f9639d]]></ToUserName>
+<FromUserName><![CDATA[opjhUwNgtQzfCL_n-z6Ksj5MpyBs]]></FromUserName>
+<CreateTime>1591958130</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 18:35:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_62bcc2f9639d',
+    'fromusername' => 'opjhUwNgtQzfCL_n-z6Ksj5MpyBs',
+    'createtime' => '1591958130',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'opjhUwNgtQzfCL_n-z6Ksj5MpyBs',
+    'to' => 'gh_62bcc2f9639d',
+    'time' => '1591958130',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 18:35:30 response :
+------------
+
+2020-06-12 18:35:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_62bcc2f9639d]]></ToUserName>
+<FromUserName><![CDATA[opjhUwNgtQzfCL_n-z6Ksj5MpyBs]]></FromUserName>
+<CreateTime>1591958133</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>432207807</MenuId>
+</xml>
+
+2020-06-12 18:35:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_62bcc2f9639d',
+    'fromusername' => 'opjhUwNgtQzfCL_n-z6Ksj5MpyBs',
+    'createtime' => '1591958133',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '432207807',
+    'from' => 'opjhUwNgtQzfCL_n-z6Ksj5MpyBs',
+    'to' => 'gh_62bcc2f9639d',
+    'time' => '1591958133',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=10&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 18:35:33 response :
+------------
+
+2020-06-12 18:36:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB56YgfPLcP6rEn7mp3EbK7aM]]></FromUserName>
+<CreateTime>1591958212</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>444488974</MenuId>
+</xml>
+
+2020-06-12 18:36:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'createtime' => '1591958212',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '444488974',
+    'from' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1591958212',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 18:36:52 response :
+------------
+
+2020-06-12 18:36:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB56YgfPLcP6rEn7mp3EbK7aM]]></FromUserName>
+<CreateTime>1591958214</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>444488974</MenuId>
+</xml>
+
+2020-06-12 18:36:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'createtime' => '1591958214',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '444488974',
+    'from' => 'o3lrB56YgfPLcP6rEn7mp3EbK7aM',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1591958214',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 18:36:54 response :
+------------
+
+2020-06-12 19:06:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bur1TTLHuIovD7tyeVlS6g]]></FromUserName>
+<CreateTime>1591960018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 19:06:58 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bur1TTLHuIovD7tyeVlS6g',
+    'createtime' => '1591960018',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1bur1TTLHuIovD7tyeVlS6g',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591960018',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 19:06:58 response :
+------------
+
+2020-06-12 19:07:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bur1TTLHuIovD7tyeVlS6g]]></FromUserName>
+<CreateTime>1591960020</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 19:07:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bur1TTLHuIovD7tyeVlS6g',
+    'createtime' => '1591960020',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1bur1TTLHuIovD7tyeVlS6g',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591960020',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 19:07:00 response :
+------------
+
+2020-06-12 19:33:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Ft3g1vJwc4y1JvSgM48YwbIg]]></FromUserName>
+<CreateTime>1591961585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 19:33:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'createtime' => '1591961585',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591961585',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 19:33:05 response :
+------------
+
+2020-06-12 19:33:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Ft3g1vJwc4y1JvSgM48YwbIg]]></FromUserName>
+<CreateTime>1591961591</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[电话]]></EventKey>
+</xml>
+
+2020-06-12 19:33:11 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'createtime' => '1591961591',
+    'msgtype' => 'event',
+    'event' => 'CLICK',
+    'eventkey' => '电话',
+    'from' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591961591',
+    'type' => 'text',
+    'content' => '电话',
+    'redirection' => true,
+    'source' => 'click',
+  ),
+  'module' => 'reply',
+  'rule' => '249',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '271',
+    'rid' => '249',
+    'uniacid' => '19',
+    'module' => 'reply',
+    'content' => '电话',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+  ),
+)
+
+2020-06-12 19:33:11 response :
+------------
+Array:
+FromUserName : gh_67e18b5132a7 ;
+ToUserName : oR70Ft3g1vJwc4y1JvSgM48YwbIg ;
+MsgType : text ;
+Content : 联系电话:15389235140 ;
+
+2020-06-12 19:33:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Ft3g1vJwc4y1JvSgM48YwbIg]]></FromUserName>
+<CreateTime>1591961601</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 19:33:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'createtime' => '1591961601',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '426666445',
+    'from' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591961601',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 19:33:21 response :
+------------
+
+2020-06-12 20:00:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_ad9809bc437f]]></ToUserName>
+<FromUserName><![CDATA[or3iRt-aIrYUXKR7PDsYBk3n2PCI]]></FromUserName>
+<CreateTime>1591963232</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 20:27:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1URurcqo_uYKyC6apnLbH9E]]></FromUserName>
+<CreateTime>1591964878</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:27:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1URurcqo_uYKyC6apnLbH9E',
+    'createtime' => '1591964878',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1URurcqo_uYKyC6apnLbH9E',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591964878',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:27:59 response :
+------------
+
+2020-06-12 20:30:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1deBl_ojGGUphTJuZxRlCOY]]></FromUserName>
+<CreateTime>1591965052</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:30:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1deBl_ojGGUphTJuZxRlCOY',
+    'createtime' => '1591965052',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1deBl_ojGGUphTJuZxRlCOY',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591965052',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:30:52 response :
+------------
+
+2020-06-12 20:32:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1XKVCO3ol87JTy6lCFR2s1Q]]></FromUserName>
+<CreateTime>1591965139</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 20:39:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YxQk2H1BUAfNc3Ltt8wDmE]]></FromUserName>
+<CreateTime>1591965596</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:39:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'createtime' => '1591965596',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591965596',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:39:56 response :
+------------
+
+2020-06-12 20:41:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YxQk2H1BUAfNc3Ltt8wDmE]]></FromUserName>
+<CreateTime>1591965663</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:41:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'createtime' => '1591965663',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591965663',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:41:03 response :
+------------
+
+2020-06-12 20:41:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YxQk2H1BUAfNc3Ltt8wDmE]]></FromUserName>
+<CreateTime>1591965686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:41:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'createtime' => '1591965686',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1YxQk2H1BUAfNc3Ltt8wDmE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591965686',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:41:26 response :
+------------
+
+2020-06-12 20:43:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Y_FV5xaFfNB9jrtlDtQnt8]]></FromUserName>
+<CreateTime>1591965822</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 20:43:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Y_FV5xaFfNB9jrtlDtQnt8',
+    'createtime' => '1591965822',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1Y_FV5xaFfNB9jrtlDtQnt8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591965822',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 20:43:42 response :
+------------
+
+2020-06-12 21:04:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_62bcc2f9639d]]></ToUserName>
+<FromUserName><![CDATA[opjhUwOLhlseohRSQ763SsdxwXxo]]></FromUserName>
+<CreateTime>1591967064</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 21:04:24 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_62bcc2f9639d',
+    'fromusername' => 'opjhUwOLhlseohRSQ763SsdxwXxo',
+    'createtime' => '1591967064',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'opjhUwOLhlseohRSQ763SsdxwXxo',
+    'to' => 'gh_62bcc2f9639d',
+    'time' => '1591967064',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 21:04:24 response :
+------------
+
+2020-06-12 21:08:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8]]></FromUserName>
+<CreateTime>1591967333</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 21:08:53 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8',
+    'createtime' => '1591967333',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591967333',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 21:08:53 response :
+------------
+
+2020-06-12 21:08:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8]]></FromUserName>
+<CreateTime>1591967335</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 21:08:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8',
+    'createtime' => '1591967335',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1RPW4tpc_KI_Q7l1Cl9qKC8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591967335',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 21:08:55 response :
+------------
+
+2020-06-12 21:11:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1frHkuGOl6KObW4YIOC0Dvk]]></FromUserName>
+<CreateTime>1591967489</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 21:11:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1frHkuGOl6KObW4YIOC0Dvk',
+    'createtime' => '1591967489',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1frHkuGOl6KObW4YIOC0Dvk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591967489',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 21:11:30 response :
+------------
+
+2020-06-12 21:12:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1frHkuGOl6KObW4YIOC0Dvk]]></FromUserName>
+<CreateTime>1591967533</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 21:12:13 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1frHkuGOl6KObW4YIOC0Dvk',
+    'createtime' => '1591967533',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1frHkuGOl6KObW4YIOC0Dvk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591967533',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 21:12:13 response :
+------------
+
+2020-06-12 21:47:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YoNDeWNoumd4zTVSqQicaM]]></FromUserName>
+<CreateTime>1591969625</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 21:47:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YoNDeWNoumd4zTVSqQicaM',
+    'createtime' => '1591969625',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1YoNDeWNoumd4zTVSqQicaM',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591969625',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 21:47:05 response :
+------------
+
+2020-06-12 21:56:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1UpL_XfA2b-bC8MkLs6fmgI]]></FromUserName>
+<CreateTime>1591970192</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 21:56:32 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1UpL_XfA2b-bC8MkLs6fmgI',
+    'createtime' => '1591970192',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1UpL_XfA2b-bC8MkLs6fmgI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970192',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 21:56:32 response :
+------------
+
+2020-06-12 21:56:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1UpL_XfA2b-bC8MkLs6fmgI]]></FromUserName>
+<CreateTime>1591970193</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 21:56:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1UpL_XfA2b-bC8MkLs6fmgI',
+    'createtime' => '1591970193',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1UpL_XfA2b-bC8MkLs6fmgI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970193',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 21:56:33 response :
+------------
+
+2020-06-12 22:03:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cy7wSiac7EeH2jo8y_QHvk]]></FromUserName>
+<CreateTime>1591970615</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:03:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cy7wSiac7EeH2jo8y_QHvk',
+    'createtime' => '1591970615',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1cy7wSiac7EeH2jo8y_QHvk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970615',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:03:35 response :
+------------
+
+2020-06-12 22:03:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cy7wSiac7EeH2jo8y_QHvk]]></FromUserName>
+<CreateTime>1591970628</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:03:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cy7wSiac7EeH2jo8y_QHvk',
+    'createtime' => '1591970628',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1cy7wSiac7EeH2jo8y_QHvk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970628',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:03:48 response :
+------------
+
+2020-06-12 22:08:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WFO0DaWwlboHdlxgy0D8T8]]></FromUserName>
+<CreateTime>1591970936</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 22:08:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'createtime' => '1591970936',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970936',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 22:08:56 response :
+------------
+
+2020-06-12 22:09:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WFO0DaWwlboHdlxgy0D8T8]]></FromUserName>
+<CreateTime>1591970940</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:09:00 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'createtime' => '1591970940',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970940',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:09:00 response :
+------------
+
+2020-06-12 22:09:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WFO0DaWwlboHdlxgy0D8T8]]></FromUserName>
+<CreateTime>1591970946</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:09:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'createtime' => '1591970946',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1WFO0DaWwlboHdlxgy0D8T8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591970946',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:09:06 response :
+------------
+
+2020-06-12 22:23:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1e6UwMV2jUMLiRjYHAYmuXE]]></FromUserName>
+<CreateTime>1591971801</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:23:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1e6UwMV2jUMLiRjYHAYmuXE',
+    'createtime' => '1591971801',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1e6UwMV2jUMLiRjYHAYmuXE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591971801',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:23:21 response :
+------------
+
+2020-06-12 22:23:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1e6UwMV2jUMLiRjYHAYmuXE]]></FromUserName>
+<CreateTime>1591971817</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:23:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1e6UwMV2jUMLiRjYHAYmuXE',
+    'createtime' => '1591971817',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1e6UwMV2jUMLiRjYHAYmuXE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591971817',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:23:37 response :
+------------
+
+2020-06-12 22:28:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Ft3g1vJwc4y1JvSgM48YwbIg]]></FromUserName>
+<CreateTime>1591972099</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 22:28:19 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'createtime' => '1591972099',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '426666445',
+    'from' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591972099',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:28:19 response :
+------------
+
+2020-06-12 22:28:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Ft3g1vJwc4y1JvSgM48YwbIg]]></FromUserName>
+<CreateTime>1591972101</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 22:28:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'createtime' => '1591972101',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '426666445',
+    'from' => 'oR70Ft3g1vJwc4y1JvSgM48YwbIg',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591972101',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:28:21 response :
+------------
+
+2020-06-12 22:35:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Fty4TqJDPx1bxREoErKndzd0]]></FromUserName>
+<CreateTime>1591972510</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 22:35:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'createtime' => '1591972510',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591972510',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 22:35:10 response :
+------------
+
+2020-06-12 22:35:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Fty4TqJDPx1bxREoErKndzd0]]></FromUserName>
+<CreateTime>1591972523</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>426666445</MenuId>
+</xml>
+
+2020-06-12 22:35:23 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'createtime' => '1591972523',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '426666445',
+    'from' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591972523',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=19&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:35:23 response :
+------------
+
+2020-06-12 22:35:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_67e18b5132a7]]></ToUserName>
+<FromUserName><![CDATA[oR70Fty4TqJDPx1bxREoErKndzd0]]></FromUserName>
+<CreateTime>1591972557</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[电话]]></EventKey>
+</xml>
+
+2020-06-12 22:35:57 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_67e18b5132a7',
+    'fromusername' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'createtime' => '1591972557',
+    'msgtype' => 'event',
+    'event' => 'CLICK',
+    'eventkey' => '电话',
+    'from' => 'oR70Fty4TqJDPx1bxREoErKndzd0',
+    'to' => 'gh_67e18b5132a7',
+    'time' => '1591972557',
+    'type' => 'text',
+    'content' => '电话',
+    'redirection' => true,
+    'source' => 'click',
+  ),
+  'module' => 'reply',
+  'rule' => '249',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '271',
+    'rid' => '249',
+    'uniacid' => '19',
+    'module' => 'reply',
+    'content' => '电话',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+  ),
+)
+
+2020-06-12 22:35:57 response :
+------------
+Array:
+FromUserName : gh_67e18b5132a7 ;
+ToUserName : oR70Fty4TqJDPx1bxREoErKndzd0 ;
+MsgType : text ;
+Content : 联系电话:15389235140 ;
+
+2020-06-12 22:36:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Z3X7gVlJHjbINAlFeo1H0c]]></FromUserName>
+<CreateTime>1591972619</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 22:36:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Z3X7gVlJHjbINAlFeo1H0c',
+    'createtime' => '1591972619',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1Z3X7gVlJHjbINAlFeo1H0c',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591972619',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 22:36:59 response :
+------------
+
+2020-06-12 23:03:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bj6q4BqPmuahBtJuwr1Vjw]]></FromUserName>
+<CreateTime>1591974211</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-06-12 23:03:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bj6q4BqPmuahBtJuwr1Vjw',
+    'createtime' => '1591974211',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1bj6q4BqPmuahBtJuwr1Vjw',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591974211',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-06-12 23:03:31 response :
+------------
+
+2020-06-12 23:03:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bj6q4BqPmuahBtJuwr1Vjw]]></FromUserName>
+<CreateTime>1591974213</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-06-12 23:03:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bj6q4BqPmuahBtJuwr1Vjw',
+    'createtime' => '1591974213',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1bj6q4BqPmuahBtJuwr1Vjw',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1591974213',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-06-12 23:03:33 response :
+------------
+

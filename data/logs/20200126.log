@@ -1,0 +1,114 @@
+2020-01-26 00:57:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_162fc9cda7ca]]></ToUserName>
+<FromUserName><![CDATA[oYRrw01PMcWd5V200h7gdyzb9H74]]></FromUserName>
+<CreateTime>1579971429</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-01-26 08:03:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1fqvpaJlJQjDzBkhoYRnXXg]]></FromUserName>
+<CreateTime>1579997010</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-01-26 08:03:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1fqvpaJlJQjDzBkhoYRnXXg',
+    'createtime' => '1579997010',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1fqvpaJlJQjDzBkhoYRnXXg',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1579997010',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-01-26 08:03:30 response :
+------------
+
+2020-01-26 17:57:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_62bcc2f9639d]]></ToUserName>
+<FromUserName><![CDATA[opjhUwC0gwzb6SnRiDaRUeFIdK5g]]></FromUserName>
+<CreateTime>1580032647</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[电话]]></EventKey>
+</xml>
+
+2020-01-26 17:57:27 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_62bcc2f9639d',
+    'fromusername' => 'opjhUwC0gwzb6SnRiDaRUeFIdK5g',
+    'createtime' => '1580032647',
+    'msgtype' => 'event',
+    'event' => 'CLICK',
+    'eventkey' => '电话',
+    'from' => 'opjhUwC0gwzb6SnRiDaRUeFIdK5g',
+    'to' => 'gh_62bcc2f9639d',
+    'time' => '1580032647',
+    'type' => 'text',
+    'content' => '电话',
+    'redirection' => true,
+    'source' => 'click',
+  ),
+  'module' => 'reply',
+  'rule' => '134',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '155',
+    'rid' => '134',
+    'uniacid' => '10',
+    'module' => 'reply',
+    'content' => '电话',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+      0 => 'basic',
+    ),
+  ),
+  'reply_type' => 
+  array (
+    0 => 'basic',
+  ),
+)
+
+2020-01-26 17:57:27 response :
+------------
+Array:
+FromUserName : gh_62bcc2f9639d ;
+ToUserName : opjhUwC0gwzb6SnRiDaRUeFIdK5g ;
+MsgType : text ;
+Content : 订餐电话：17711088890 ;
+

@@ -1,0 +1,109 @@
+2020-02-11 10:43:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f7c52ee3e5f7]]></ToUserName>
+<FromUserName><![CDATA[oANN2vx9Tn9dsA05s7KSJ4XubfuI]]></FromUserName>
+<CreateTime>1581389018</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-02-11 10:52:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7b3d37846b75]]></ToUserName>
+<FromUserName><![CDATA[oZ5PY1PwA5zQieYD0LmYHiO5cCbg]]></FromUserName>
+<CreateTime>1581389576</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-02-11 13:58:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1XSpPXFPfD15JQjzgTcUSBg]]></FromUserName>
+<CreateTime>1581400716</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>22640215020724036</MsgId>
+</xml>
+
+2020-02-11 13:58:37 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1XSpPXFPfD15JQjzgTcUSBg',
+    'createtime' => '1581400716',
+    'msgtype' => 'text',
+    'content' => '你好',
+    'msgid' => '22640215020724036',
+    'from' => 'o5V8y1XSpPXFPfD15JQjzgTcUSBg',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1581400716',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2020-02-11 13:58:37 response :
+------------
+
+2020-02-11 13:58:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1XSpPXFPfD15JQjzgTcUSBg]]></FromUserName>
+<CreateTime>1581400738</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我年前在你们那吃饭的发票没有给我开吧]]></Content>
+<MsgId>22640213877444992</MsgId>
+</xml>
+
+2020-02-11 13:58:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1XSpPXFPfD15JQjzgTcUSBg',
+    'createtime' => '1581400738',
+    'msgtype' => 'text',
+    'content' => '我年前在你们那吃饭的发票没有给我开吧',
+    'msgid' => '22640213877444992',
+    'from' => 'o5V8y1XSpPXFPfD15JQjzgTcUSBg',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1581400738',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2020-02-11 13:58:59 response :
+------------
+
+2020-02-11 17:57:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZWMeyEUayEKyzq_RlChnDc]]></FromUserName>
+<CreateTime>1581415021</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

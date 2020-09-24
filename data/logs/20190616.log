@@ -1,0 +1,40 @@
+2019-06-16 16:31:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB57fmee-7rQWlStPRdeZxtRc]]></FromUserName>
+<CreateTime>1560673883</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=19]]></EventKey>
+<MenuId>444058172</MenuId>
+</xml>
+
+2019-06-16 16:31:23 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'createtime' => '1560673883',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=19',
+    'menuid' => '444058172',
+    'from' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1560673883',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=2&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=19',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-06-16 16:31:23 response :
+------------
+

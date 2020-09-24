@@ -1,0 +1,245 @@
+2020-02-24 08:37:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1TV2B6NgwUXAVn7X6CgXqnU]]></FromUserName>
+<CreateTime>1582504641</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>1223266587457847296</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2020-02-24 08:37:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1TV2B6NgwUXAVn7X6CgXqnU',
+    'createtime' => '1582504641',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '1223266587457847296',
+    'status' => 'success',
+    'from' => 'o5V8y1TV2B6NgwUXAVn7X6CgXqnU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1582504641',
+    'type' => 'event',
+  ),
+)
+
+2020-02-24 08:37:21 response :
+------------
+
+2020-02-24 08:45:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1TV2B6NgwUXAVn7X6CgXqnU]]></FromUserName>
+<CreateTime>1582505146</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35]]></EventKey>
+<MenuId>445261982</MenuId>
+</xml>
+
+2020-02-24 08:45:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1TV2B6NgwUXAVn7X6CgXqnU',
+    'createtime' => '1582505146',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'menuid' => '445261982',
+    'from' => 'o5V8y1TV2B6NgwUXAVn7X6CgXqnU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1582505146',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=35',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-02-24 08:45:46 response :
+------------
+
+2020-02-24 11:31:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7b3d37846b75]]></ToUserName>
+<FromUserName><![CDATA[oZ5PY1EpYsEPcnJNmfp8nD0hESFM]]></FromUserName>
+<CreateTime>1582515088</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-02-24 11:42:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1c2HizI5yiClq6FtOy1sYQ4]]></FromUserName>
+<CreateTime>1582515730</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2020-02-24 11:42:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1c2HizI5yiClq6FtOy1sYQ4',
+    'createtime' => '1582515730',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1c2HizI5yiClq6FtOy1sYQ4',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1582515730',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2020-02-24 11:42:10 response :
+------------
+
+2020-02-24 14:15:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_162fc9cda7ca]]></ToUserName>
+<FromUserName><![CDATA[oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q]]></FromUserName>
+<CreateTime>1582524928</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://rom.paidui.com/wxr/PageMain/Main/?mc=0005337471&hash=MerchantIntroduction#MerchantIntroduction]]></EventKey>
+<MenuId>431964406</MenuId>
+</xml>
+
+2020-02-24 14:15:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_162fc9cda7ca',
+    'fromusername' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'createtime' => '1582524928',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://rom.paidui.com/wxr/PageMain/Main/?mc=0005337471&hash=MerchantIntroduction#MerchantIntroduction',
+    'menuid' => '431964406',
+    'from' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'to' => 'gh_162fc9cda7ca',
+    'time' => '1582524928',
+    'type' => 'text',
+    'content' => 'https://rom.paidui.com/wxr/PageMain/Main/?mc=0005337471&hash=MerchantIntroduction#MerchantIntroduction',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-02-24 14:15:28 response :
+------------
+
+2020-02-24 14:15:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_162fc9cda7ca]]></ToUserName>
+<FromUserName><![CDATA[oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q]]></FromUserName>
+<CreateTime>1582524935</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_new_coupon]]></EventKey>
+<MenuId>431964406</MenuId>
+</xml>
+
+2020-02-24 14:15:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_162fc9cda7ca',
+    'fromusername' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'createtime' => '1582524935',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_new_coupon',
+    'menuid' => '431964406',
+    'from' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'to' => 'gh_162fc9cda7ca',
+    'time' => '1582524935',
+    'type' => 'text',
+    'content' => 'https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_new_coupon',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-02-24 14:15:36 response :
+------------
+
+2020-02-24 14:15:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_162fc9cda7ca]]></ToUserName>
+<FromUserName><![CDATA[oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q]]></FromUserName>
+<CreateTime>1582524947</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_my_order]]></EventKey>
+<MenuId>431964406</MenuId>
+</xml>
+
+2020-02-24 14:15:48 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_162fc9cda7ca',
+    'fromusername' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'createtime' => '1582524947',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_my_order',
+    'menuid' => '431964406',
+    'from' => 'oYRrw0zBUj0X5VSk0Pj1tNc0AX7Q',
+    'to' => 'gh_162fc9cda7ca',
+    'time' => '1582524947',
+    'type' => 'text',
+    'content' => 'https://rom.paidui.com/wxr/entry/appmenu?mc=0005337471&actionValue=menu_my_order',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2020-02-24 14:15:48 response :
+------------
+

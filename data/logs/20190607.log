@@ -1,0 +1,112 @@
+2019-06-07 00:02:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB57ISd4ggQ8SPOaM83gMjstM]]></FromUserName>
+<CreateTime>1559836941</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-06-07 00:02:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB57ISd4ggQ8SPOaM83gMjstM',
+    'createtime' => '1559836941',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o3lrB57ISd4ggQ8SPOaM83gMjstM',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1559836941',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-06-07 00:02:21 response :
+------------
+
+2019-06-07 11:26:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB57fmee-7rQWlStPRdeZxtRc]]></FromUserName>
+<CreateTime>1559878019</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-06-07 11:26:59 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'createtime' => '1559878019',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1559878019',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-06-07 11:26:59 response :
+------------
+
+2019-06-07 11:27:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_c804ae748f89]]></ToUserName>
+<FromUserName><![CDATA[o3lrB57fmee-7rQWlStPRdeZxtRc]]></FromUserName>
+<CreateTime>1559878024</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[11]]></Content>
+<MsgId>22332085871187706</MsgId>
+</xml>
+
+2019-06-07 11:27:04 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_c804ae748f89',
+    'fromusername' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'createtime' => '1559878024',
+    'msgtype' => 'text',
+    'content' => '11',
+    'msgid' => '22332085871187706',
+    'from' => 'o3lrB57fmee-7rQWlStPRdeZxtRc',
+    'to' => 'gh_c804ae748f89',
+    'time' => '1559878024',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2019-06-07 11:27:04 response :
+------------
+

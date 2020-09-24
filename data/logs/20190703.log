@@ -1,0 +1,2379 @@
+2019-07-03 06:20:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cNlSUQWpTgRT0nGE8zcuyk]]></FromUserName>
+<CreateTime>1562106042</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 06:20:42 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cNlSUQWpTgRT0nGE8zcuyk',
+    'createtime' => '1562106042',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cNlSUQWpTgRT0nGE8zcuyk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562106042',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 06:20:42 response :
+------------
+
+2019-07-03 06:22:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cNlSUQWpTgRT0nGE8zcuyk]]></FromUserName>
+<CreateTime>1562106160</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[view_miniprogram]]></Event>
+<EventKey><![CDATA[pages/Index/Index]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 06:22:40 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cNlSUQWpTgRT0nGE8zcuyk',
+    'createtime' => '1562106160',
+    'msgtype' => 'event',
+    'event' => 'view_miniprogram',
+    'eventkey' => 'pages/Index/Index',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cNlSUQWpTgRT0nGE8zcuyk',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562106160',
+    'type' => 'text',
+    'content' => 'pages/Index/Index',
+    'redirection' => true,
+    'source' => 'view_miniprogram',
+  ),
+)
+
+2019-07-03 06:22:40 response :
+------------
+
+2019-07-03 08:54:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Z3bqQwajcLxa8rIzTra9Ic]]></FromUserName>
+<CreateTime>1562115290</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 08:54:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Z3bqQwajcLxa8rIzTra9Ic',
+    'createtime' => '1562115290',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1Z3bqQwajcLxa8rIzTra9Ic',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562115290',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 08:54:50 response :
+------------
+
+2019-07-03 09:18:23 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_mc_card` WHERE `uniacid` =  :__uniacid LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid' => 7,
+)<hr/>SQL Error: <br/>Table 'sql39_97_186_42.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 162; <br />file: /framework/class/db.class.php; line: 220; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /app/source/mc/home.ctrl.php; line: 11; <br />file: /app/index.php; line: 115; <br />
+
+2019-07-03 09:44:59 SQL Error :
+------------
+String:
+SQL: <br/>SELECT * FROM `ims_mc_card` WHERE `uniacid` =  :__uniacid LIMIT 1<hr/>Params: <br/>array (
+  ':__uniacid' => 7,
+)<hr/>SQL Error: <br/>Table 'sql39_97_186_42.ims_mc_card' doesn't exist<hr/>Traces: <br/>file: /framework/class/db.class.php; line: 162; <br />file: /framework/class/db.class.php; line: 220; <br />file: /framework/function/pdo.func.php; line: 49; <br />file: /app/source/mc/home.ctrl.php; line: 11; <br />file: /app/index.php; line: 115; <br />
+
+2019-07-03 09:48:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZnHrL-w1rHJi3fRg8D9i3s]]></FromUserName>
+<CreateTime>1562118481</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 09:48:01 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1ZnHrL-w1rHJi3fRg8D9i3s',
+    'createtime' => '1562118481',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1ZnHrL-w1rHJi3fRg8D9i3s',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562118481',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 09:48:01 response :
+------------
+
+2019-07-03 09:48:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZnHrL-w1rHJi3fRg8D9i3s]]></FromUserName>
+<CreateTime>1562118515</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[view_miniprogram]]></Event>
+<EventKey><![CDATA[pages/Index/Index]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 09:48:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1ZnHrL-w1rHJi3fRg8D9i3s',
+    'createtime' => '1562118515',
+    'msgtype' => 'event',
+    'event' => 'view_miniprogram',
+    'eventkey' => 'pages/Index/Index',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1ZnHrL-w1rHJi3fRg8D9i3s',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562118515',
+    'type' => 'text',
+    'content' => 'pages/Index/Index',
+    'redirection' => true,
+    'source' => 'view_miniprogram',
+  ),
+)
+
+2019-07-03 09:48:35 response :
+------------
+
+2019-07-03 10:54:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1doOhyUKVRJIegG-nRAW3IM]]></FromUserName>
+<CreateTime>1562122452</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1eN_ZlEz46DdrBJZsa-SMGo]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440670890803200</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1eN_ZlEz46DdrBJZsa-SMGo',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440670890803200',
+    'status' => 'success',
+    'from' => 'o5V8y1eN_ZlEz46DdrBJZsa-SMGo',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1f4ihtOVdFi_JhJY5d1tabE]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440671377260547</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WNaF4HYif6h6Tiw3wnTEh4]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440671192825856</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1f4ihtOVdFi_JhJY5d1tabE',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440671377260547',
+    'status' => 'success',
+    'from' => 'o5V8y1f4ihtOVdFi_JhJY5d1tabE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WNaF4HYif6h6Tiw3wnTEh4',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440671192825856',
+    'status' => 'success',
+    'from' => 'o5V8y1WNaF4HYif6h6Tiw3wnTEh4',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Xe_OUJKn6mxbH3R523gxd0]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440671159238657</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Xe_OUJKn6mxbH3R523gxd0',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440671159238657',
+    'status' => 'success',
+    'from' => 'o5V8y1Xe_OUJKn6mxbH3R523gxd0',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1c5O1sElcL_oufwo-3V8r-U]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440672451018752</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1eoxcAsElC8L6LVzlJs-l1M]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440670974738433</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1QLrMAtF0TPi8Ls-iA1aDoI]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440672383909889</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1X5mvEWdX1fsFiSMpl5S96U]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440672098697216</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YKxJ8hSKDMGrJgRuwjHeo8]]></FromUserName>
+<CreateTime>1562130229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881440672635666433</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1eoxcAsElC8L6LVzlJs-l1M',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440670974738433',
+    'status' => 'success',
+    'from' => 'o5V8y1eoxcAsElC8L6LVzlJs-l1M',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1X5mvEWdX1fsFiSMpl5S96U',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440672098697216',
+    'status' => 'success',
+    'from' => 'o5V8y1X5mvEWdX1fsFiSMpl5S96U',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YKxJ8hSKDMGrJgRuwjHeo8',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440672635666433',
+    'status' => 'success',
+    'from' => 'o5V8y1YKxJ8hSKDMGrJgRuwjHeo8',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1c5O1sElcL_oufwo-3V8r-U',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440672451018752',
+    'status' => 'success',
+    'from' => 'o5V8y1c5O1sElcL_oufwo-3V8r-U',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 13:03:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1QLrMAtF0TPi8Ls-iA1aDoI',
+    'createtime' => '1562130229',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881440672383909889',
+    'status' => 'success',
+    'from' => 'o5V8y1QLrMAtF0TPi8Ls-iA1aDoI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562130229',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 13:03:49 response :
+------------
+
+2019-07-03 14:17:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1dOgLJdE4zwSi2hmR4JEHtE]]></FromUserName>
+<CreateTime>1562134640</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881514687253430272</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 14:17:21 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1dOgLJdE4zwSi2hmR4JEHtE',
+    'createtime' => '1562134640',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881514687253430272',
+    'status' => 'success',
+    'from' => 'o5V8y1dOgLJdE4zwSi2hmR4JEHtE',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562134640',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 14:17:21 response :
+------------
+
+2019-07-03 15:01:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1avR7-PrZmOZtxqrP9MzW9Y]]></FromUserName>
+<CreateTime>1562137299</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881559291512193026</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 15:01:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1avR7-PrZmOZtxqrP9MzW9Y',
+    'createtime' => '1562137299',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881559291512193026',
+    'status' => 'success',
+    'from' => 'o5V8y1avR7-PrZmOZtxqrP9MzW9Y',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562137299',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 15:01:39 response :
+------------
+
+2019-07-03 15:10:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ]]></FromUserName>
+<CreateTime>1562137838</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-07-03 15:10:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ',
+    'createtime' => '1562137838',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562137838',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 15:10:39 response :
+------------
+
+2019-07-03 15:10:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ]]></FromUserName>
+<CreateTime>1562137850</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 15:10:50 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ',
+    'createtime' => '1562137850',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1Z3dbm5jlREJaB7Ojfg-GmQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562137850',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 15:10:50 response :
+------------
+
+2019-07-03 15:20:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YOMI0CuPyvY0_VGZlRa7Tc]]></FromUserName>
+<CreateTime>1562138424</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881578166114975744</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 15:20:24 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YOMI0CuPyvY0_VGZlRa7Tc',
+    'createtime' => '1562138424',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881578166114975744',
+    'status' => 'success',
+    'from' => 'o5V8y1YOMI0CuPyvY0_VGZlRa7Tc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562138424',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 15:20:24 response :
+------------
+
+2019-07-03 15:34:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WO4qlCh_sGowBq5uM4vhqQ]]></FromUserName>
+<CreateTime>1562139251</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 15:34:12 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'createtime' => '1562139251',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => 'qrscene_business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562139251',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 15:34:12 response :
+------------
+
+2019-07-03 15:34:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WO4qlCh_sGowBq5uM4vhqQ]]></FromUserName>
+<CreateTime>1562139254</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 15:34:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'createtime' => '1562139254',
+    'msgtype' => 'event',
+    'event' => 'SCAN',
+    'eventkey' => 'business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562139254',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'qr',
+  ),
+)
+
+2019-07-03 15:34:14 response :
+------------
+
+2019-07-03 15:34:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WO4qlCh_sGowBq5uM4vhqQ]]></FromUserName>
+<CreateTime>1562139257</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 15:34:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'createtime' => '1562139257',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562139257',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 15:34:17 response :
+------------
+
+2019-07-03 15:34:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WO4qlCh_sGowBq5uM4vhqQ]]></FromUserName>
+<CreateTime>1562139266</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[17795778751]]></Content>
+<MsgId>22364455217695271</MsgId>
+</xml>
+
+2019-07-03 15:34:27 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'createtime' => '1562139266',
+    'msgtype' => 'text',
+    'content' => '17795778751',
+    'msgid' => '22364455217695271',
+    'from' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562139266',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2019-07-03 15:34:27 response :
+------------
+
+2019-07-03 15:34:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WO4qlCh_sGowBq5uM4vhqQ]]></FromUserName>
+<CreateTime>1562139278</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881592499545047042</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 15:34:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'createtime' => '1562139278',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881592499545047042',
+    'status' => 'success',
+    'from' => 'o5V8y1WO4qlCh_sGowBq5uM4vhqQ',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562139278',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 15:34:39 response :
+------------
+
+2019-07-03 17:10:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bILmEkjfKVIwFabUHFUdEA]]></FromUserName>
+<CreateTime>1562145009</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881688650189340672</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 17:10:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bILmEkjfKVIwFabUHFUdEA',
+    'createtime' => '1562145009',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881688650189340672',
+    'status' => 'success',
+    'from' => 'o5V8y1bILmEkjfKVIwFabUHFUdEA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562145009',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 17:10:10 response :
+------------
+
+2019-07-03 18:48:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562150908</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 18:48:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562150908',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => 'qrscene_business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562150908',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 18:48:28 response :
+------------
+
+2019-07-03 18:48:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562150911</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 18:48:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562150911',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562150911',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 18:48:31 response :
+------------
+
+2019-07-03 19:39:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZSR3vu6ugSmB2JhSPJHUhc]]></FromUserName>
+<CreateTime>1562153996</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 19:39:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'createtime' => '1562153996',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => 'qrscene_business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562153996',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 19:39:56 response :
+------------
+
+2019-07-03 19:40:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZSR3vu6ugSmB2JhSPJHUhc]]></FromUserName>
+<CreateTime>1562154009</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[17782596548]]></Content>
+<MsgId>22364671264243328</MsgId>
+</xml>
+
+2019-07-03 19:40:09 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'createtime' => '1562154009',
+    'msgtype' => 'text',
+    'content' => '17782596548',
+    'msgid' => '22364671264243328',
+    'from' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562154009',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2019-07-03 19:40:09 response :
+------------
+
+2019-07-03 19:40:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1ZSR3vu6ugSmB2JhSPJHUhc]]></FromUserName>
+<CreateTime>1562154023</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881839879729086464</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 19:40:24 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'createtime' => '1562154023',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881839879729086464',
+    'status' => 'success',
+    'from' => 'o5V8y1ZSR3vu6ugSmB2JhSPJHUhc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562154023',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 19:40:24 response :
+------------
+
+2019-07-03 19:52:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1chOB_8K45T97mWxY-zDdyc]]></FromUserName>
+<CreateTime>1562154731</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 19:52:11 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'createtime' => '1562154731',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => 'qrscene_business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562154731',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 19:52:11 response :
+------------
+
+2019-07-03 19:52:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1chOB_8K45T97mWxY-zDdyc]]></FromUserName>
+<CreateTime>1562154734</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 19:52:14 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'createtime' => '1562154734',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562154734',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 19:52:14 response :
+------------
+
+2019-07-03 19:52:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1chOB_8K45T97mWxY-zDdyc]]></FromUserName>
+<CreateTime>1562154759</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881852225310572544</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 19:52:39 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'createtime' => '1562154759',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881852225310572544',
+    'status' => 'success',
+    'from' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562154759',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 19:52:39 response :
+------------
+
+2019-07-03 19:58:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1chOB_8K45T97mWxY-zDdyc]]></FromUserName>
+<CreateTime>1562155109</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[view_miniprogram]]></Event>
+<EventKey><![CDATA[pages/Index/Index]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 19:58:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'createtime' => '1562155109',
+    'msgtype' => 'event',
+    'event' => 'view_miniprogram',
+    'eventkey' => 'pages/Index/Index',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562155109',
+    'type' => 'text',
+    'content' => 'pages/Index/Index',
+    'redirection' => true,
+    'source' => 'view_miniprogram',
+  ),
+)
+
+2019-07-03 19:58:29 response :
+------------
+
+2019-07-03 20:00:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1chOB_8K45T97mWxY-zDdyc]]></FromUserName>
+<CreateTime>1562155230</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 20:00:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'createtime' => '1562155230',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1chOB_8K45T97mWxY-zDdyc',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562155230',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 20:00:30 response :
+------------
+
+2019-07-03 20:13:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bnTuiPMnPd5tsf4AqmKhdA]]></FromUserName>
+<CreateTime>1562156025</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_business:5864a01773794135a05fba69901b7199]]></EventKey>
+<Ticket><![CDATA[gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA]]></Ticket>
+</xml>
+
+2019-07-03 20:13:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'createtime' => '1562156025',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => 'qrscene_business:5864a01773794135a05fba69901b7199',
+    'ticket' => 'gQGj8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyZ3RQMXQ5QnZjT2wxMDAwMHcwN2oAAgQPhH9cAwQAAAAA',
+    'from' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562156025',
+    'type' => 'text',
+    'scene' => 'business:5864a01773794135a05fba69901b7199',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2019-07-03 20:13:46 response :
+------------
+
+2019-07-03 20:14:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bnTuiPMnPd5tsf4AqmKhdA]]></FromUserName>
+<CreateTime>1562156045</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[13324598552]]></Content>
+<MsgId>22364697652460496</MsgId>
+</xml>
+
+2019-07-03 20:14:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'createtime' => '1562156045',
+    'msgtype' => 'text',
+    'content' => '13324598552',
+    'msgid' => '22364697652460496',
+    'from' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562156045',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2019-07-03 20:14:06 response :
+------------
+
+2019-07-03 20:16:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1bnTuiPMnPd5tsf4AqmKhdA]]></FromUserName>
+<CreateTime>1562156177</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881876013439926272</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 20:16:17 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'createtime' => '1562156177',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881876013439926272',
+    'status' => 'success',
+    'from' => 'o5V8y1bnTuiPMnPd5tsf4AqmKhdA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562156177',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 20:16:17 response :
+------------
+
+2019-07-03 20:32:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1fE8Pn-lZ9fzDhTsBZtyo_I]]></FromUserName>
+<CreateTime>1562157153</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881892384211107840</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 20:32:33 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1fE8Pn-lZ9fzDhTsBZtyo_I',
+    'createtime' => '1562157153',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881892384211107840',
+    'status' => 'success',
+    'from' => 'o5V8y1fE8Pn-lZ9fzDhTsBZtyo_I',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562157153',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 20:32:33 response :
+------------
+
+2019-07-03 20:41:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RPqougVfNZJl8d5ESx2Z3Q]]></FromUserName>
+<CreateTime>1562157704</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881901620840251394</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 20:41:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RPqougVfNZJl8d5ESx2Z3Q',
+    'createtime' => '1562157704',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881901620840251394',
+    'status' => 'success',
+    'from' => 'o5V8y1RPqougVfNZJl8d5ESx2Z3Q',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562157704',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 20:41:44 response :
+------------
+
+2019-07-03 21:03:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WEUuwP7ZD5tCEvsdlzFMeM]]></FromUserName>
+<CreateTime>1562158987</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:03:07 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'createtime' => '1562158987',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562158987',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:03:07 response :
+------------
+
+2019-07-03 21:03:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WEUuwP7ZD5tCEvsdlzFMeM]]></FromUserName>
+<CreateTime>1562159012</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:03:32 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'createtime' => '1562159012',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562159012',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:03:32 response :
+------------
+
+2019-07-03 21:03:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WEUuwP7ZD5tCEvsdlzFMeM]]></FromUserName>
+<CreateTime>1562159036</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:03:56 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'createtime' => '1562159036',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562159036',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=25',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:03:56 response :
+------------
+
+2019-07-03 21:04:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1WEUuwP7ZD5tCEvsdlzFMeM]]></FromUserName>
+<CreateTime>1562159042</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:04:02 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'createtime' => '1562159042',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1WEUuwP7ZD5tCEvsdlzFMeM',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562159042',
+    'type' => 'text',
+    'content' => 'http://www.boyufengmao.com/app/index.php?i=6&c=entry&m=ewei_shopv2&do=mobile&r=diypage&id=26',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:04:02 response :
+------------
+
+2019-07-03 21:07:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YwsF6d67NpoimpXXj49NLU]]></FromUserName>
+<CreateTime>1562159260</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881927735248044036</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:07:40 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YwsF6d67NpoimpXXj49NLU',
+    'createtime' => '1562159260',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881927735248044036',
+    'status' => 'success',
+    'from' => 'o5V8y1YwsF6d67NpoimpXXj49NLU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562159260',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:07:40 response :
+------------
+
+2019-07-03 21:08:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1YwsF6d67NpoimpXXj49NLU]]></FromUserName>
+<CreateTime>1562159281</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881928081714331649</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:08:01 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1YwsF6d67NpoimpXXj49NLU',
+    'createtime' => '1562159281',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881928081714331649',
+    'status' => 'success',
+    'from' => 'o5V8y1YwsF6d67NpoimpXXj49NLU',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562159281',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:08:01 response :
+------------
+
+2019-07-03 21:29:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562160545</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[17782980503]]></Content>
+<MsgId>22364760224874289</MsgId>
+</xml>
+
+2019-07-03 21:29:05 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562160545',
+    'msgtype' => 'text',
+    'content' => '17782980503',
+    'msgid' => '22364760224874289',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562160545',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2019-07-03 21:29:05 response :
+------------
+
+2019-07-03 21:29:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562160570</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:29:30 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562160570',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562160570',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:29:30 response :
+------------
+
+2019-07-03 21:29:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562160585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:29:46 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562160585',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562160585',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:29:46 response :
+------------
+
+2019-07-03 21:29:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562160595</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881950129140531202</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:29:55 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562160595',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881950129140531202',
+    'status' => 'success',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562160595',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:29:55 response :
+------------
+
+2019-07-03 21:30:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562160637</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881950845158555649</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:30:38 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562160637',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881950845158555649',
+    'status' => 'success',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562160637',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:30:38 response :
+------------
+
+2019-07-03 21:45:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161531</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:45:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161531',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161531',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:45:31 response :
+------------
+
+2019-07-03 21:45:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161552</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:45:52 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161552',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161552',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:45:52 response :
+------------
+
+2019-07-03 21:46:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161576</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:46:16 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161576',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161576',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:46:16 response :
+------------
+
+2019-07-03 21:46:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562161588</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881966797740703745</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:46:28 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562161588',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881966797740703745',
+    'status' => 'success',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161588',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:46:28 response :
+------------
+
+2019-07-03 21:46:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161604</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:46:45 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161604',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161604',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:46:45 response :
+------------
+
+2019-07-03 21:46:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161607</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[view_miniprogram]]></Event>
+<EventKey><![CDATA[pages/Index/Index]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:46:47 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161607',
+    'msgtype' => 'event',
+    'event' => 'view_miniprogram',
+    'eventkey' => 'pages/Index/Index',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161607',
+    'type' => 'text',
+    'content' => 'pages/Index/Index',
+    'redirection' => true,
+    'source' => 'view_miniprogram',
+  ),
+)
+
+2019-07-03 21:46:47 response :
+------------
+
+2019-07-03 21:46:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562161617</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:46:57 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562161617',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161617',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:46:57 response :
+------------
+
+2019-07-03 21:47:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1cWgxKQZWMZMstqGM1R_8KI]]></FromUserName>
+<CreateTime>1562161623</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:47:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'createtime' => '1562161623',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1cWgxKQZWMZMstqGM1R_8KI',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161623',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:47:03 response :
+------------
+
+2019-07-03 21:47:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562161669</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342]]></EventKey>
+<MenuId>445210001</MenuId>
+</xml>
+
+2019-07-03 21:47:49 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562161669',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'menuid' => '445210001',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161669',
+    'type' => 'text',
+    'content' => 'http://www.kezaihui.com/web/thanks_wechat_share?redirect_uri=customerv2/storehome/435daf94ab6748709e3bf57b82f0df69/minepanel&appid=wx2e2e1a31f5c00342',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2019-07-03 21:47:49 response :
+------------
+
+2019-07-03 21:48:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_f9b894563ef4]]></ToUserName>
+<FromUserName><![CDATA[o5V8y1RB7vr28VI8YlEdDQWpg7oA]]></FromUserName>
+<CreateTime>1562161686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[TEMPLATESENDJOBFINISH]]></Event>
+<MsgID>881968439475175424</MsgID>
+<Status><![CDATA[success]]></Status>
+</xml>
+
+2019-07-03 21:48:06 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_f9b894563ef4',
+    'fromusername' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'createtime' => '1562161686',
+    'msgtype' => 'event',
+    'event' => 'TEMPLATESENDJOBFINISH',
+    'msgid' => '881968439475175424',
+    'status' => 'success',
+    'from' => 'o5V8y1RB7vr28VI8YlEdDQWpg7oA',
+    'to' => 'gh_f9b894563ef4',
+    'time' => '1562161686',
+    'type' => 'event',
+  ),
+)
+
+2019-07-03 21:48:06 response :
+------------
+
